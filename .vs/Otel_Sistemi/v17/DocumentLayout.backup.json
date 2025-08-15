@@ -1,0 +1,1217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hometext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hometext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\roomwithservicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\roomwithservicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\adminaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\adminaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\roomservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\roomservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\roomservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\roomservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\roomservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\roomservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\roomservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\roomservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hometext\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hometext\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\hometextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\hometextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hometext\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hometext\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\hometext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\hometext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\contactmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\contactmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\contactmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\contactmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\aboutitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\aboutitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\aboutitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\aboutitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\aboutitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\aboutitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\aboutitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\aboutitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\hotelinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\hotelinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hotelinfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hotelinfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\aboutitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\aboutitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hotelinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hotelinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hotelinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hotelinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hotelinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hotelinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\hotelinfo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\hotelinfo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\hotelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\hotelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\checkavailability.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\checkavailability.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\sona-master\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\sona-master\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\views\\reservation\\myreservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\views\\reservation\\myreservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250714185621_removeroomidfromroomservice_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250714185621_removeroomidfromroomservice_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\sona-master\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\sona-master\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\sona-master\\rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\sona-master\\rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\sona-master\\room-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\sona-master\\room-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\sona-master\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\sona-master\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250705205953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250705205953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250711164045_addkapasitetoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250711164045_addkapasitetoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250714223325_removeroomidcolumnfromroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250714223325_removeroomidcolumnfromroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250714223106_droproomidfromroomserviceproperly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250714223106_droproomidfromroomserviceproperly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250714184812_removeroomidfromroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250714184812_removeroomidfromroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250714135411_roomserviceusesodaturuinsteadofroomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250714135411_roomserviceusesodaturuinsteadofroomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250716172941_removeroomdurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250716172941_removeroomdurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250719195856_addilaveyataktoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250719195856_addilaveyataktoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250803114954_removeuseridfromreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250803114954_removeuseridfromreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|c:\\users\\rana\\source\\repos\\otel_sistemi\\otel_sistemi\\migrations\\20250801192252_addmusteriandreservationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A626B-C862-4108-A170-507E6649F28B}|Otel_Sistemi\\Otel_Sistemi.csproj|solutionrelative:otel_sistemi\\migrations\\20250801192252_addmusteriandreservationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T11:26:06.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T16:50:05.54Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Program.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:17:21.526Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPcBAAAAYkGqlJEswGEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:10:16.719Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:47:27.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Room.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:29:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HomeText\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HomeText\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:06:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rooms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Rooms.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\Rooms.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Rooms.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\Rooms.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T14:36:22.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomWithServicesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RoomWithServicesViewModel.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\RoomWithServicesViewModel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RoomWithServicesViewModel.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\RoomWithServicesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:28:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T13:02:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv1AAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T22:59:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:35:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:34:39.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:52:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AdminAccount\\Login.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\AdminAccount\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AdminAccount\\Login.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\AdminAccount\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:29:08.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\RoomService\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Edit.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\RoomService\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:10:27.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\User.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:30:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Create.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\RoomService\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Create.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\RoomService\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:10:03.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\RoomService\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\RoomService\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\RoomService\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:09:42.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\RoomServiceController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\RoomServiceController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\RoomServiceController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\RoomServiceController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:09:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HomeText\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Edit.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HomeText\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:07:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Create.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HomeText\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HomeText\\Create.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HomeText\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T22:07:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeTextController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HomeTextController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\HomeTextController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HomeTextController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\HomeTextController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:06:15.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RoomService.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RoomService.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:47:04.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\ContactMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\ContactMessage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\ContactMessage\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\ContactMessage\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T21:50:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\ContactMessageController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\ContactMessageController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\ContactMessageController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\ContactMessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:48:56.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\AboutItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Edit.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\AboutItem\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T21:28:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeText.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HomeText.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\HomeText.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HomeText.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\HomeText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:21:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\AboutItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Create.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\AboutItem\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T21:28:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\AboutItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\AboutItem\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\AboutItem\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T21:00:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AboutItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AboutItemController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\AboutItemController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\AboutItemController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\AboutItemController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:59:30.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HotelInfo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Delete.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HotelInfo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:51:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HotelInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HotelInfoController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\HotelInfoController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HotelInfoController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\HotelInfoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:17:49.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HotelInfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Index.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HotelInfo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:48:12.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AboutItem.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\AboutItem.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\AboutItem.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\AboutItem.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\AboutItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:22:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HotelInfo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Edit.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HotelInfo\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:50:31.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HotelInfo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Create.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HotelInfo\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:49:58.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Details.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\HotelInfo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\HotelInfo\\Details.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\HotelInfo\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:49:24.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T11:28:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T11:26:42.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HotelInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HotelInfo.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\HotelInfo.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HotelInfo.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\HotelInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:16:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:26:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Musteri.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Musteri.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:19:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Reservation.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:29:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250803114954_RemoveUserIdFromReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250803114954_RemoveUserIdFromReservation.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250803114954_RemoveUserIdFromReservation.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250803114954_RemoveUserIdFromReservation.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250803114954_RemoveUserIdFromReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:49:54.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250801192252_AddMusteriAndReservationUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250801192252_AddMusteriAndReservationUpdate.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250801192252_AddMusteriAndReservationUpdate.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250801192252_AddMusteriAndReservationUpdate.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250801192252_AddMusteriAndReservationUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:22:52.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\Payment.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:17:22.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CheckAvailability.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\CheckAvailability.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\CheckAvailability.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\CheckAvailability.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\CheckAvailability.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T16:57:41.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAgwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:23:03.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\ReservationViewModel.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\ReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:30:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250719195856_AddIlaveYatakToRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250719195856_AddIlaveYatakToRoom.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250719195856_AddIlaveYatakToRoom.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250719195856_AddIlaveYatakToRoom.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250719195856_AddIlaveYatakToRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:58:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "main.html",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\main.html",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\sona-master\\main.html",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\main.html",
+              "RelativeToolTip": "Otel_Sistemi\\sona-master\\main.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-17T22:59:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T22:57:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250716172941_RemoveRoomDurum.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250716172941_RemoveRoomDurum.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250716172941_RemoveRoomDurum.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250716172941_RemoveRoomDurum.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250716172941_RemoveRoomDurum.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:29:41.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MyReservations.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Reservation\\MyReservations.cshtml",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Views\\Reservation\\MyReservations.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Views\\Reservation\\MyReservations.cshtml",
+              "RelativeToolTip": "Otel_Sistemi\\Views\\Reservation\\MyReservations.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T13:08:33.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T21:06:20.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:46:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:37:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250714223325_RemoveRoomIdColumnFromRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714223325_RemoveRoomIdColumnFromRoomService.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250714223325_RemoveRoomIdColumnFromRoomService.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714223325_RemoveRoomIdColumnFromRoomService.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250714223325_RemoveRoomIdColumnFromRoomService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:33:25.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250714223106_DropRoomIdFromRoomServiceProperly.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714223106_DropRoomIdFromRoomServiceProperly.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250714223106_DropRoomIdFromRoomServiceProperly.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714223106_DropRoomIdFromRoomServiceProperly.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250714223106_DropRoomIdFromRoomServiceProperly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:31:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250714185621_RemoveRoomIdFromRoomService_v2.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714185621_RemoveRoomIdFromRoomService_v2.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250714185621_RemoveRoomIdFromRoomService_v2.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714185621_RemoveRoomIdFromRoomService_v2.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250714185621_RemoveRoomIdFromRoomService_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:56:21.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250714184812_RemoveRoomIdFromRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714184812_RemoveRoomIdFromRoomService.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250714184812_RemoveRoomIdFromRoomService.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714184812_RemoveRoomIdFromRoomService.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250714184812_RemoveRoomIdFromRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:48:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250714135411_RoomServiceUsesOdaTuruInsteadOfRoomId.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714135411_RoomServiceUsesOdaTuruInsteadOfRoomId.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250714135411_RoomServiceUsesOdaTuruInsteadOfRoomId.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250714135411_RoomServiceUsesOdaTuruInsteadOfRoomId.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250714135411_RoomServiceUsesOdaTuruInsteadOfRoomId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:54:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:54:01.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250711164045_AddKapasiteToRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250711164045_AddKapasiteToRoom.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250711164045_AddKapasiteToRoom.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250711164045_AddKapasiteToRoom.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250711164045_AddKapasiteToRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:40:45.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "about-us.html",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\about-us.html",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\sona-master\\about-us.html",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\about-us.html",
+              "RelativeToolTip": "Otel_Sistemi\\sona-master\\about-us.html",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-06T15:08:40.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "rooms.html",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\rooms.html",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\sona-master\\rooms.html",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\rooms.html",
+              "RelativeToolTip": "Otel_Sistemi\\sona-master\\rooms.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T22:17:00.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "index2.html",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\index2.html",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\sona-master\\index2.html",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\index2.html",
+              "RelativeToolTip": "Otel_Sistemi\\sona-master\\index2.html",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T21:33:50.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "room-details.html",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\room-details.html",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\sona-master\\room-details.html",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\sona-master\\room-details.html",
+              "RelativeToolTip": "Otel_Sistemi\\sona-master\\room-details.html",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAwLABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T22:17:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "Otel_Sistemi\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-06T15:21:11.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250705205953_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250705205953_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\Migrations\\20250705205953_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\Migrations\\20250705205953_InitialCreate.cs",
+              "RelativeToolTip": "Otel_Sistemi\\Migrations\\20250705205953_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:59:53.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "Otel_Sistemi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\Otel_Sistemi\\Otel_Sistemi\\appsettings.json",
+              "RelativeToolTip": "Otel_Sistemi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T20:12:56.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

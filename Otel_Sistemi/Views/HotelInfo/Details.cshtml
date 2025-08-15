@@ -1,0 +1,22 @@
+﻿@model Otel_Sistemi.Models.HotelInfo
+
+@{
+    ViewData["Title"] = "Otel Bilgisi Detayları";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>@Model.OtelIsmi</h2>
+
+<table class="table">
+    <tr><th>Slogan</th><td>@Model.Slogan</td></tr>
+    <tr><th>Telefon</th><td>@Model.Telefon</td></tr>
+    <tr><th>Fax</th><td>@Model.Fax</td></tr>
+    <tr><th>Email</th><td>@Model.Email</td></tr>
+    <tr><th>Adres</th><td>@Model.Adres</td></tr>
+    <tr><th>Instagram</th><td>@Model.SosyalInstagram</td></tr>
+    <tr><th>Facebook</th><td>@Model.SosyalFacebook</td></tr>
+    <tr><th>Twitter</th><td>@Model.SosyalTwitter</td></tr>
+    <tr><th>Youtube</th><td>@Model.SosyalYoutube</td></tr>
+</table>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Geri Dön</a>

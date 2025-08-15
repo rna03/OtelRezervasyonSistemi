@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ContactViewModel
+
+<section class="contact-section spad">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="contact-text">
+                <h2>İletişim Bilgileri</h2>
+                <p>Her zaman bizimle iletişime geçebilirsiniz.</p>
+                <table>
+                    <tbody>
+                            <tr><td class="c-o">Adres:</td><td>@Model.HotelInfo.Adres</td></tr>
+                            <tr><td class="c-o">Telefon:</td><td>@Model.HotelInfo.Telefon</td></tr>
+                            <tr><td class="c-o">Email:</td><td>@Model.HotelInfo.Email</td></tr>
+                            <tr><td class="c-o">Fax:</td><td>@Model.HotelInfo.Fax</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-lg-7 offset-lg-1">
+            @if (TempData["Message"] != null)
+            {
+                <div class="alert alert-success">@TempData["Message"]</div>
+            }
+
+                <form asp-action="Contact" asp-controller="Home" method="post" class="contact-form">
+                    @Html.AntiForgeryToken()
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <input asp-for="ContactMessage.Ad" class="form-control" placeholder="Adınız" />
+                            <span asp-validation-for="ContactMessage.Ad" class="text-danger"></span>
+                        </div>
+                        <div class="col-lg-6">
+                            <input asp-for="ContactMessage.Email" class="form-control" placeholder="Email Adresiniz" />
+                            <span asp-validation-for="ContactMessage.Email" class="text-danger"></span>
+                        </div>
+                        <div class="col-lg-12">
+                            <textarea asp-for="ContactMessage.Mesaj" class="form-control" placeholder="Mesajınız"></textarea>
+                            <span asp-validation-for="ContactMessage.Mesaj" class="text-danger"></span>
+                            <button type="submit" class="site-btn">Gönder</button>
+                        </div>
+                    </div>
+                </form>
+
+        </div>
+    </div>
+
+        <div class="map">
+            @{
+                var adres = Model.HotelInfo?.Adres ?? "New York";
+                var encodedAddress = System.Net.WebUtility.UrlEncode(adres);
+                var mapUrl = $"https://www.google.com/maps?q={encodedAddress}&output=embed";
+            }
+
+            <iframe src="@mapUrl"
+                    width="100%" height="470"
+                    style="border:0;" allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
+
+</div>
+</section>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
+
+

@@ -1,0 +1,53 @@
+﻿@model List<Otel_Sistemi.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Rezervasyonlarım";
+}
+
+<section class="spad">
+    <div class="container">
+        <h2 class="mb-4">Rezervasyonlarım</h2>
+
+        @if (!Model.Any())
+        {
+            <div class="alert alert-info">Hiç rezervasyonunuz bulunmamaktadır.</div>
+        }
+        else
+        {
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Oda Türü</th>
+                        <th>Giriş Tarihi</th>
+                        <th>Çıkış Tarihi</th>
+                        <th>Toplam Tutar</th>
+                        <th>Durum</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var rezervasyon in Model)
+                    {
+                        <tr>
+                            <td>@rezervasyon.Room?.OdaTuru</td>
+                            <td>@rezervasyon.GirisTarihi.ToString("dd.MM.yyyy")</td>
+                            <td>@rezervasyon.CikisTarihi.ToString("dd.MM.yyyy")</td>
+                            <td>₺@rezervasyon.ToplamTutar</td>
+                          
+                            <td>
+                                @(rezervasyon.IptalEdildi ? "İptal Edildi" : "Aktif")
+                                @if (!rezervasyon.IptalEdildi)
+                                {
+                                    <form asp-controller="Reservation" asp-action="IptalEt" method="post" style="display:inline;">
+                                        <input type="hidden" name="id" value="@rezervasyon.Id" />
+                                        <button type="submit" class="btn btn-sm btn-danger ml-2" onclick="return confirm('Bu rezervasyonu iptal etmek istediğinize emin misiniz?')">İptal Et</button>
+                                    </form>
+                                }
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</section>

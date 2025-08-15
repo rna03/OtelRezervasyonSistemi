@@ -1,0 +1,39 @@
+﻿@model List<Otel_Sistemi.Models.RoomService>
+@{
+    ViewData["Title"] = "Oda Servisleri";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>Oda Servisleri</h2>
+    <a href="/RoomService/Create" class="btn btn-primary mb-2">Yeni Hizmet Ekle</a>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Oda Türü</th>
+                <th>Hizmet</th>
+                <th>Düzenle</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.OdaTuru</td>
+                    <td>@item.Hizmet</td>
+                    <td>
+                        <a href="/RoomService/Edit/@item.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                    </td>
+                    <td>
+                        <a href="/RoomService/Delete/@item.Id"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Silmek istediğinize emin misiniz?');">
+                            Sil
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,90 @@
+﻿@inject Otel_Sistemi.Data.AppDbContext _context
+@{
+    var headerModel = _context.HotelInfos.FirstOrDefault();
+    var footerModel = _context.HotelInfos.FirstOrDefault();
+}
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Sona Template">
+    <meta name="keywords" content="Sona, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sona | Template</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,500,600,700&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <!-- CSS Styles -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/elegant-icons.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/flaticon.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/nice-select.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/jquery-ui.min.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/magnific-popup.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" asp-append-version="true" />
+
+</head>
+<body>
+   @*  <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Otel_Sistemi</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header> *@
+    @await Html.PartialAsync("_Header", headerModel)
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await Html.PartialAsync("_Footer", footerModel)
+   @*  <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Otel_Sistemi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+    <!-- NuGet (Lib) kaynakları -->
+    <script src="~/lib/jquery/dist/jquery.min.js" asp-append-version="true"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js" asp-append-version="true"></script>
+
+    <!-- Özel JS dosyaların -->
+    <script src="~/js/jquery-3.3.1.min.js" asp-append-version="true"></script>
+    <script src="~/js/bootstrap.min.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.magnific-popup.min.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.nice-select.min.js" asp-append-version="true"></script>
+    <script src="~/js/jquery-ui.min.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.slicknav.js" asp-append-version="true"></script>
+    <script src="~/js/owl.carousel.min.js" asp-append-version="true"></script>
+    <script src="~/js/main.js" asp-append-version="true"></script>
+
+    <!-- ASP.NET Core site.js -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Sayfaya özel script alanı -->
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

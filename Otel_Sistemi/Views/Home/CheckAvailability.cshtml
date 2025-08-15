@@ -1,0 +1,118 @@
+﻿@model Otel_Sistemi.Models.HomeViewModel
+
+@{
+    ViewData["Title"] = "CheckAvailability";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="rooms-section spad">
+    <div class="container">
+        <h2 class="mb-4">Uygun Odalar</h2>
+
+        @if (Model.AvailableRooms != null && Model.AvailableRooms.Any())
+        {
+            <div class="row">
+                @foreach (var room in Model.AvailableRooms)
+                {
+                    var toplamFiyat = room.Fiyat * Model.GunSayisi;
+
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="room-item">
+                            <img src="@Url.Content(room.ImagePath)" alt="@room.OdaTuru" class="img-fluid" />
+                            <div class="ri-text mt-3">
+                                <h4>@room.OdaTuru</h4>
+                                <h3>₺@toplamFiyat<span> /gece</span></h3>
+                                <table class="table table-bordered mt-3">
+                                    <tbody>
+                                        <tr>
+                                            <td class="r-o">Büyüklük:</td>
+                                            <td>@room.BuyuklukM2 m²</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="r-o">Tür:</td>
+                                            <td>@(room.CocukKabul ? "Aile / Çocuklu" : "Yetişkin")</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="r-o">Kapasite:</td>
+                                            <td>@room.Kapasite kişi</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="r-o">İlave Yatak:</td>
+                                            <td>
+                                                @(room.IlaveYatak ? "İlave Yatak Vardır" : "İlave Yatak Yoktur")
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td class="r-o">Hizmetler:</td>
+                                            <td>
+                                                @{
+                                                    var hizmetler = room.RoomServices?.Select(h => h.Hizmet).ToList() ?? new List<string>();
+                                                    var kisaHizmet = string.Join(", ", hizmetler.Take(2));
+                                                    var uzunHizmet = string.Join(", ", hizmetler);
+                                                }
+                                                <span class="short-desc">@kisaHizmet</span>
+                                                @if (hizmetler.Count > 2)
+                                                {
+                                                    <span class="dots">...</span>
+                                                    <span class="full-desc d-none">@uzunHizmet</span>
+                                                    <a href="javascript:void(0);" class="text-primary toggle-more">Daha fazlası</a>
+                                                }
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                                <form asp-action="RezerveEtPost" asp-controller="Reservation" method="post">
+                                    <input type="hidden" name="odaTuru" value="@room.OdaTuru" />
+                                    <input type="hidden" name="girisTarihi" value="@Model.ReservationForm.GirisTarihi?.ToString("yyyy-MM-dd")" />
+                                    <input type="hidden" name="cikisTarihi" value="@Model.ReservationForm.CikisTarihi?.ToString("yyyy-MM-dd")" />
+                                    <button type="submit" class="btn btn-primary mt-2">Rezerve Et</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-warning">Bu tarih aralığında uygun oda bulunamadı.</div>
+        }
+    </div>
+</section>
+
+<style>
+    .room-item {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .toggle-more {
+        display: inline-block;
+        margin-top: 5px;
+        font-size: 0.9rem;
+        color: #007bff;
+        cursor: pointer;
+    }
+
+        .toggle-more:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        document.querySelectorAll(".toggle-more").forEach(btn => {
+            btn.addEventListener("click", () => {
+                const container = btn.closest("td");
+                container.querySelector(".short-desc").classList.toggle("d-none");
+                container.querySelector(".dots").classList.toggle("d-none");
+                container.querySelector(".full-desc").classList.toggle("d-none");
+                btn.textContent = btn.textContent === "Daha fazlası" ? "Daha az" : "Daha fazlası";
+            });
+        });
+    });
+</script>

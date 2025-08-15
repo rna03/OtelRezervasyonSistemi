@@ -1,0 +1,53 @@
+﻿@model Otel_Sistemi.Models.HotelInfo
+
+@{
+    ViewData["Title"] = "Yeni Otel Bilgisi Ekle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Yeni Otel Bilgisi Ekle</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Otel İsmi</label>
+        <input asp-for="OtelIsmi" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Slogan</label>
+        <input asp-for="Slogan" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Telefon</label>
+        <input asp-for="Telefon" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Fax</label>
+        <input asp-for="Fax" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Adres</label>
+        <textarea asp-for="Adres" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Instagram</label>
+        <input asp-for="SosyalInstagram" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Facebook</label>
+        <input asp-for="SosyalFacebook" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Twitter</label>
+        <input asp-for="SosyalTwitter" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Youtube</label>
+        <input asp-for="SosyalYoutube" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Kaydet</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">İptal</a>
+</form>

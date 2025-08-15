@@ -1,0 +1,21 @@
+﻿@model Otel_Sistemi.Models.RoomService
+@{
+    ViewData["Title"] = "Oda Hizmeti Düzenle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>Oda Hizmeti Düzenle</h2>
+    <form method="post">
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <div class="form-group">
+            <label>Oda Türü</label>
+            <input type="text" name="OdaTuru" class="form-control" value="@Model.OdaTuru" required />
+        </div>
+        <div class="form-group">
+            <label>Hizmet</label>
+            <input type="text" name="Hizmet" class="form-control" value="@Model.Hizmet" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    </form>
+</div>

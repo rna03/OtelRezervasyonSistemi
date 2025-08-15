@@ -1,0 +1,16 @@
+﻿@model Otel_Sistemi.Models.AboutItem
+@{
+    ViewData["Title"] = "Yeni Madde Ekle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Yeni Madde Ekle</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Madde</label>
+        <input type="text" asp-for="Madde" class="form-control" />
+        <span asp-validation-for="Madde" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Kaydet</button>
+</form>

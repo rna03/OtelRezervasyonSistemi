@@ -1,0 +1,16 @@
+﻿@model Otel_Sistemi.Models.HotelInfo
+
+@{
+    ViewData["Title"] = "Otel Bilgisi Sil";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Silme Onayı</h2>
+
+<p> <strong>@Model.OtelIsmi</strong> bilgisi silinecek. Emin misiniz?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Evet, Sil</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">İptal</a>
+</form>

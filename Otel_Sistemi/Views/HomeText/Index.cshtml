@@ -1,0 +1,41 @@
+﻿@model List<Otel_Sistemi.Models.HomeText>
+@{
+    ViewData["Title"] = "HomeText Listesi";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>HomeText Listesi</h2>
+    <a href="/HomeText/Create" class="btn btn-primary mb-2">Yeni Ekle</a>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Sayfa</th>
+                <th>Başlık</th>
+                <th>İçerik</th>
+                <th>Düzenle</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Sayfa</td>
+                    <td>@item.Baslik</td>
+                    <td>@item.Icerik</td>
+                    <td>
+                        <a href="/HomeText/Edit/@item.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                    </td>
+                    <td>
+                        <a href="/HomeText/Delete/@item.Id"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Silmek istediğinize emin misiniz?');">
+                            Sil
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

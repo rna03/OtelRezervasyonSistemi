@@ -1,0 +1,25 @@
+﻿@model Otel_Sistemi.Models.HomeText
+@{
+    ViewData["Title"] = "HomeText Düzenle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>HomeText Düzenle</h2>
+    <form method="post">
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <div class="form-group">
+            <label>Sayfa</label>
+            <input type="text" name="Sayfa" class="form-control" value="@Model.Sayfa" required />
+        </div>
+        <div class="form-group">
+            <label>Başlık</label>
+            <input type="text" name="Baslik" class="form-control" value="@Model.Baslik" required />
+        </div>
+        <div class="form-group">
+            <label>İçerik</label>
+            <textarea name="Icerik" class="form-control" rows="3" required>@Model.Icerik</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    </form>
+</div>

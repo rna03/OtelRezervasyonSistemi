@@ -1,0 +1,38 @@
+﻿@model List<Otel_Sistemi.Models.ContactMessage>
+@{
+    ViewData["Title"] = "Gelen Mesajlar";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>Gelen Mesajlar</h2>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Ad</th>
+                <th>Email</th>
+                <th>Mesaj</th>
+                <th>Tarih</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Ad</td>
+                    <td>@item.Email</td>
+                    <td>@item.Mesaj</td>
+                    <td>@item.Tarih.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>
+                        <a href="/ContactMessage/Delete/@item.Id"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Bu mesajı silmek istediğinize emin misiniz?');">
+                            Sil
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

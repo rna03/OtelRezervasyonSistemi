@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "Rooms";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<Otel_Sistemi.Models.RoomWithServicesViewModel>
+<style>
+    .room-item {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ri-text {
+        flex: 1;
+    }
+
+</style>
+<section class="rooms-section spad">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                var room = item.Room;
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="room-item">
+                        <img src="@Url.Content(room.ImagePath)" alt="@room.OdaTuru" class="img-fluid">
+                        <div class="ri-text">
+                            <h4>@room.OdaTuru</h4>
+                            <h3>₺@room.Fiyat<span> /gece</span></h3>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td class="r-o">Büyüklük:</td>
+                                        <td>@room.BuyuklukM2 m²</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="r-o">Kapasite:</td>
+                                        <td>@(room.CocukKabul ? "Aile / Çocuklu" : "Yetişkin")</td>
+                                    </tr>
+                                  @*   <tr>
+                                        <td class="r-o">Floor:</td>
+                                        <td>@room.Kat</td>
+                                    </tr> *@
+                                    <tr>
+                                        <td class="r-o">İlave Yatak:</td>
+                                        <td>@(room.IlaveYatak ? "Var" : "Yok")</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td class="r-o">Services:</td>
+                                        <td>
+                                            @{
+                                                var hizmetler = item.Hizmetler.ToList();
+                                                var maxVisible = 2; // İlk 2 tanesini göster
+                                                var visibleServices = hizmetler.Take(maxVisible).ToList();
+                                                var hiddenServices = hizmetler.Skip(maxVisible).ToList();
+                                            }
+
+                                            @string.Join(", ", visibleServices)
+
+                                            @if (hiddenServices.Any())
+                                            {
+                                                <span class="more-services d-none">
+                                                    , @string.Join(", ", hiddenServices)
+                                                </span>
+                                                <a href="javascript:void(0);" class="toggle-services text-primary" style="font-size: 0.9em;">More Details</a>
+                                            }
+                                        </td>
+                                    </tr>
+
+
+                                </tbody>
+                            </table>
+                  @*           <a href="#" class="primary-btn mt-3">More Details</a> *@
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll(".toggle-services").forEach(function (btn) {
+            btn.addEventListener("click", function () {
+                let moreServices = this.previousElementSibling;
+                if (moreServices.classList.contains("d-none")) {
+                    moreServices.classList.remove("d-none");
+                    this.textContent = "Less Details";
+                } else {
+                    moreServices.classList.add("d-none");
+                    this.textContent = "More Details";
+                }
+            });
+        });
+    });
+</script>
