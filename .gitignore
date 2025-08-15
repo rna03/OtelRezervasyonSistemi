@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# IIS Express
+/.vs/
+
+# NuGet Paketleri
+*.nupkg
+*.snupkg
+packages/
+
+# Web proje dosyaları
+node_modules/
+wwwroot/lib/
+*.log
+.env
